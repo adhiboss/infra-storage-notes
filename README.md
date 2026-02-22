@@ -43,17 +43,6 @@ To align with this domain, I am strengthening my understanding of storage system
 
 ---
 
-## 🏗️ Enterprise Storage Architecture (Conceptual)
-
-![Storage Architecture](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Storage_Area_Network_diagram.svg/800px-Storage_Area_Network_diagram.svg.png)
-
----
-
-## 💾 RAID Example (Conceptual View)
-
-![RAID Diagram](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/RAID_5.svg/800px-RAID_5.svg.png)
-
----
 
 ## 📌 Why This Repository Exists
 
