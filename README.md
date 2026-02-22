@@ -47,7 +47,15 @@ To align with this domain, I am strengthening my understanding of storage system
 ## 📌 Why This Repository Exists
 
 Customer Success Engineers in data security companies must:
+## 🏗️ Enterprise Storage Architecture
 
+![SAN Architecture](https://raw.githubusercontent.com/kubernetes/website/main/static/images/docs/storage.svg)
+
+---
+
+## 💾 RAID Conceptual View
+
+![RAID Diagram](https://upload.wikimedia.org/wikipedia/commons/0/0e/RAID_5.svg)
 - Understand storage failures
 - Diagnose backup issues
 - Explain RPO/RTO to customers
